@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-11-03 01:51:56
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-11-03 02:51:45 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.159 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 781
+2012-11-03 03:42:13 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 180.76.5.185 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 200 0 0 2151 224 421
+2012-11-03 09:40:22 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 64.246.165.10 HTTP/1.0 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - - 404 0 2 1826 295 265
+2012-11-04 00:56:56 VAULT 10.216.12.250 GET /style.css - 80 VHOSTS3\domain1335920 124.115.0.170 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - http://vault.cityinthe.cloud/ 200 0 0 476 299 499

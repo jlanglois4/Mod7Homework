@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-08-17 04:26:09
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-08-17 04:25:35 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 124.115.6.10 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 404 0 2 1807 259 593
+2012-08-17 05:36:18 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.165 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 304 0 0 285 299 578
+2012-08-17 07:14:22 VAULT 10.216.12.250 GET /cms.htm - 80 VHOSTS3\domain1335920 86.186.227.102 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.79+Safari/537.1 - - 200 0 0 3197 504 359
+2012-08-17 07:14:22 VAULT 10.216.12.250 GET /favicon.ico - 80 VHOSTS3\domain1335920 86.186.227.102 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.79+Safari/537.1 - - 404 0 2 1807 334 15
+2012-08-17 08:40:00 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 0 2 1807 192 124
+2012-08-17 11:31:38 VAULT 10.216.12.250 GET /mobile/services.html - 80 VHOSTS3\domain1335920 66.249.72.36 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 304 0 0 224 302 140
+2012-08-17 11:31:38 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.72.36 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 268 203
+2012-08-17 11:53:32 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - 404 0 2 1826 278 171
+2012-08-17 11:53:32 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - 200 0 0 2151 355 109
+2012-08-17 14:25:33 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.171 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 304 0 0 285 299 578
+2012-08-17 14:27:48 VAULT 10.216.12.251 GET /favicon.ico - 80 VHOSTS3\domain1335920 95.149.106.104 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:14.0)+Gecko/20100101+Firefox/14.0.1 - - 404 0 2 1807 309 93
+2012-08-17 15:18:53 VAULT 10.216.12.252 GET /robots.txt - 80 VHOSTS3\domain1335920 65.52.104.19 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 270 171
+2012-08-17 17:06:45 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 2132 287 140
+2012-08-17 20:38:13 VAULT 10.216.12.252 GET /Clean%20Society%20New%20Waste%20Customer%20Form.pdf - 80 VHOSTS3\domain1335920 66.249.72.36 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 78951 283 578
+2012-08-17 21:53:06 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 65.52.104.19 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 187
+2012-08-17 22:29:00 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 65.52.104.19 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 2132 277 187
+2012-08-17 22:29:04 VAULT 10.216.12.252 GET /flash/main_v8.swf - 80 VHOSTS3\domain1335920 65.52.104.19 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 674572 294 1921
+2012-08-17 22:33:40 VAULT 10.216.12.250 GET /pages/health_and_safety_text.htm - 80 VHOSTS3\domain1335920 66.249.72.46 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 3 1807 268 93
+2012-08-17 22:33:40 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.72.46 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 272 171
+2012-08-17 23:33:15 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.4.197 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 304 0 0 285 299 468

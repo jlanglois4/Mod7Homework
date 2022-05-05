@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-08-19 01:28:07
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-08-19 01:27:44 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.169 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 304 0 0 285 299 578
+2012-08-19 05:06:25 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 124.115.6.10 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 404 0 2 1807 259 515
+2012-08-19 05:21:33 VAULT 10.216.12.251 GET /pages/contact.htm - 80 VHOSTS3\domain1335920 80.7.18.168 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_4_11;+en)+AppleWebKit/533.18.1+(KHTML,+like+Gecko)+Version/4.1.2+Safari/533.18.5 - - 404 0 3 1807 401 78
+2012-08-19 10:27:32 VAULT 10.216.12.250 GET /style.css - 80 VHOSTS3\domain1335920 203.88.11.2 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.79+Safari/537.1 - http://vault.cityinthe.cloud/ 200 0 0 476 380 719
+2012-08-19 10:27:38 VAULT 10.216.12.250 GET /flash/main_v8.swf - 80 VHOSTS3\domain1335920 203.88.11.2 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.79+Safari/537.1 - http://vault.cityinthe.cloud/ 200 0 64 0 373 6174
+2012-08-19 10:28:03 VAULT 10.216.12.251 GET /flash/main_v8.swf - 80 VHOSTS3\domain1335920 203.88.11.2 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.1+(KHTML,+like+Gecko)+Chrome/21.0.1180.79+Safari/537.1 - http://vault.cityinthe.cloud/ 200 0 64 0 430 6452
+2012-08-19 11:09:30 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 74.125.126.80 HTTP/1.1 Mozilla/5.0+(en-us)+AppleWebKit/534.14+(KHTML,+like+Gecko;+Google+Wireless+Transcoder)+Chrome/9.0.597+Safari/534.14 - - 200 0 0 4453 275 421
+2012-08-19 11:09:30 VAULT 10.216.12.252 GET /style.css - 80 VHOSTS3\domain1335920 74.125.126.103 HTTP/1.1 Mozilla/5.0+(en-us)+AppleWebKit/534.14+(KHTML,+like+Gecko;+Google+Wireless+Transcoder)+Chrome/9.0.597+Safari/534.14 - http://vault.cityinthe.cloud/ 200 0 0 476 333 171
+2012-08-19 11:25:16 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.168 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 304 0 0 285 299 578
+2012-08-19 11:25:13 VAULT 10.216.12.252 GET /style.css - 80 VHOSTS3\domain1335920 74.125.126.88 HTTP/1.1 Mozilla/5.0+(en-us)+AppleWebKit/534.14+(KHTML,+like+Gecko;+Google+Wireless+Transcoder)+Chrome/9.0.597+Safari/534.14 - http://vault.cityinthe.cloud/ 200 0 0 476 333 203
+2012-08-19 12:57:12 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - 200 0 0 4472 355 140
+2012-08-19 12:57:11 VAULT 10.216.12.252 GET /robots.txt - 80 VHOSTS3\domain1335920 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - 404 0 2 1826 278 78
+2012-08-19 14:52:28 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 81.94.198.2 HTTP/1.1 - - - 200 0 0 4453 72 140
+2012-08-19 16:46:57 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 207.46.13.95 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 270 203
+2012-08-19 16:48:00 VAULT 10.216.12.252 GET /pages/contact.htm - 80 VHOSTS3\domain1335920 207.46.13.95 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 3 1807 377 140
+2012-08-19 20:22:52 VAULT 10.216.12.252 GET /style.css - 80 VHOSTS3\domain1335920 124.115.0.17 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - http://vault.cityinthe.cloud/ 200 0 0 476 299 374
+2012-08-19 20:22:42 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.17 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 781
+2012-08-19 20:48:57 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 207.46.13.95 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 187
+2012-08-19 20:49:55 VAULT 10.216.12.252 GET /cms.htm - 80 VHOSTS3\domain1335920 207.46.13.95 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 64 0 372 281
+2012-08-19 21:32:00 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 64.246.178.34 HTTP/1.0 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - - 404 0 2 1826 295 281
+2012-08-19 21:32:00 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 64.246.178.34 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - http://whois.domaintools.com/vault.cityinthe.cloud 200 0 0 4453 495 390

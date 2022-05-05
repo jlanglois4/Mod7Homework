@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-11-20 03:58:47
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-11-20 04:58:22 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 65.55.208.47 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - - 200 0 0 4453 256 234
+2012-11-20 05:23:06 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 157.55.32.58 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 4453 277 468
+2012-11-20 06:27:24 VAULT 10.216.12.252 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.75.224 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 272 171
+2012-11-20 06:43:02 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 208.49.123.2 HTTP/1.1 - - - 200 0 0 4453 72 78
+2012-11-20 09:35:48 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.141 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 937
+2012-11-20 11:06:23 VAULT 10.216.12.251 GET /style.css - 80 VHOSTS3\domain1335920 217.36.30.53 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - http://vault.cityinthe.cloud/ 200 0 64 0 273 93
+2012-11-20 11:06:23 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 217.36.30.53 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - http://www.google.com/url?sa=t&rct=j&q=bank%20vault&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fvault.cityinthe.cloud%2F&ei=JGSrUOC-BPKb1AXwooGQAQ&usg=AFQjCNGd0A0CXq6Ryc_HUf7DFQFHnfAczw 200 0 0 4453 457 203
+2012-11-20 11:06:23 VAULT 10.216.12.252 GET /style.css - 80 VHOSTS3\domain1335920 217.36.30.53 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - http://vault.cityinthe.cloud/ 200 0 0 476 273 93
+2012-11-20 11:06:26 VAULT 10.216.12.252 GET /flash/main_v8.swf - 80 VHOSTS3\domain1335920 217.36.30.53 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - http://vault.cityinthe.cloud/ 200 0 0 674572 306 2124
+2012-11-20 14:17:54 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 0 2 1807 192 171
+2012-11-20 15:55:12 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 124.115.6.10 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 404 0 2 1807 259 578
+2012-11-20 15:58:04 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.35.112 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 156
+2012-11-20 16:01:31 VAULT 10.216.12.251 GET /planth/index.htm - 80 VHOSTS3\domain1335920 157.55.35.112 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 3 1807 293 156
+2012-11-20 16:14:08 VAULT 10.216.12.252 GET /cms.htm - 80 VHOSTS3\domain1335920 95.149.105.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:16.0)+Gecko/20100101+Firefox/16.0 - - 200 0 0 3197 303 296
+2012-11-20 16:14:08 VAULT 10.216.12.252 GET /style.css - 80 VHOSTS3\domain1335920 95.149.105.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:16.0)+Gecko/20100101+Firefox/16.0 - http://vault.cityinthe.cloud/cms.htm 200 0 0 476 308 265
+2012-11-20 16:14:12 VAULT 10.216.12.252 GET /favicon.ico - 80 VHOSTS3\domain1335920 95.149.105.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:16.0)+Gecko/20100101+Firefox/16.0 - - 404 0 2 1807 307 62
+2012-11-20 16:14:12 VAULT 10.216.12.252 GET /favicon.ico - 80 VHOSTS3\domain1335920 95.149.105.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:16.0)+Gecko/20100101+Firefox/16.0 - - 404 0 2 1807 307 62
+2012-11-20 16:51:38 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 208.22.79.251 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.64+Safari/537.11 - http://www.google.com/search?q=bank+vault&oq=bank+vault&sugexp=chrome,mod=6&sourceid=chrome&ie=UTF-8 200 0 0 4453 507 374
+2012-11-20 16:51:38 VAULT 10.216.12.250 GET /style.css - 80 VHOSTS3\domain1335920 208.22.79.251 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.11+(KHTML,+like+Gecko)+Chrome/23.0.1271.64+Safari/537.11 - http://vault.cityinthe.cloud/ 200 0 0 476 389 312
+2012-11-20 18:31:21 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 95.108.151.244 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 0 2 1807 192 187
+2012-11-20 18:31:22 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 95.108.151.244 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 4453 293 187
+2012-11-20 18:31:23 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 95.108.151.244 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 4453 293 78
+2012-11-20 20:12:33 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 66.249.73.6 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 4453 236 140
+2012-11-20 20:12:33 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.73.6 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 272 234
+2012-11-20 22:31:36 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 113.142.10.106 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 765
+2012-11-20 23:06:45 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.32.58 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 270 249
+2012-11-20 23:13:11 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 157.55.32.58 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 4449 273 375
+2012-11-20 23:37:27 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.34.168 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 328
+2012-11-20 23:41:00 VAULT 10.216.12.252 GET /wip/index.htm - 80 VHOSTS3\domain1335920 157.55.34.168 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 3 1807 290 203

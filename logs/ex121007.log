@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-10-07 01:34:20
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-10-07 01:33:56 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 66.249.66.212 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 4453 236 31
+2012-10-07 01:33:56 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.66.212 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 272 187
+2012-10-07 02:10:57 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.32.153 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 218
+2012-10-07 02:12:42 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 157.55.32.153 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 0 4453 364 359
+2012-10-07 05:37:58 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 157.56.93.192 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 234
+2012-10-07 05:38:53 VAULT 10.216.12.251 GET /exports/default.htm - 80 VHOSTS3\domain1335920 157.56.93.192 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 3 1807 296 140
+2012-10-07 05:55:43 VAULT 10.216.12.252 GET /pages/who_we_are.htm - 80 VHOSTS3\domain1335920 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - 404 0 3 1826 287 62
+2012-10-07 05:55:51 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 124.115.4.200 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 1015
+2012-10-07 05:55:44 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - - 404 0 2 1826 277 62
+2012-10-07 06:58:01 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 66.249.66.153 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 2128 232 140
+2012-10-07 06:58:01 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.76.124 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 268 203
+2012-10-07 13:52:52 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 124.115.6.10 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 404 0 2 1807 259 687
+2012-10-07 15:13:28 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.4.191 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 1234
+2012-10-07 16:23:02 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.32.153 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 218
+2012-10-07 16:29:11 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 65.55.208.65 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - - 200 0 0 2132 256 140
+2012-10-07 23:18:26 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 66.249.66.153 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 4449 232 31
+2012-10-07 23:18:26 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.66.153 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 268 140

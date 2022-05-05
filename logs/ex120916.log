@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-09-16 02:28:51
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-09-16 02:28:25 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.34.25 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 296
+2012-09-16 03:43:57 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 157.56.93.226 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - - 200 0 0 4453 256 375
+2012-09-16 06:32:05 VAULT 10.216.12.250 GET /favicon.ico - 80 VHOSTS3\domain1335920 95.149.104.86 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:15.0)+Gecko/20100101+Firefox/15.0.1 - - 404 0 2 1807 309 156
+2012-09-16 06:32:05 VAULT 10.216.12.250 GET /favicon.ico - 80 VHOSTS3\domain1335920 95.149.104.86 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:15.0)+Gecko/20100101+Firefox/15.0.1 - - 404 0 2 1807 309 62
+2012-09-16 08:43:53 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.24 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 2132 249 656
+2012-09-16 11:04:36 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 124.115.6.10 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 404 0 2 1807 259 609
+2012-09-16 11:45:16 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 81.94.198.2 HTTP/1.1 - - - 200 0 0 4453 72 156
+2012-09-16 13:36:51 VAULT 10.216.12.252 GET /robots.txt - 80 VHOSTS3\domain1335920 66.249.72.65 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 404 0 2 1807 268 171
+2012-09-16 13:36:52 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 66.249.72.65 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 0 4393 242 124
+2012-09-16 13:53:32 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 0 2 1807 192 109
+2012-09-16 15:21:04 VAULT 10.216.12.251 GET /pages/Waste%20&%20Recycling.htm - 80 VHOSTS3\domain1335920 157.55.32.80 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 3 1807 304 9406
+2012-09-16 16:30:30 VAULT 10.216.12.252 GET /index.html - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 4453 287 234
+2012-09-16 18:01:27 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.140 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 2132 249 515

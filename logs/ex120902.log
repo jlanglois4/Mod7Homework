@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-09-02 02:12:23
+#Fields: date time s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2012-09-02 02:11:46 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 0 2 1807 192 374
+2012-09-02 03:26:58 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 178.154.243.105 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 0 4453 287 218
+2012-09-02 06:53:11 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 207.46.199.193 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 187
+2012-09-02 08:04:48 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 124.115.0.101 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 4453 249 984
+2012-09-02 12:16:43 VAULT 10.216.12.252 GET /robots.txt - 80 VHOSTS3\domain1335920 124.115.6.10 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 404 0 2 1807 259 515
+2012-09-02 14:16:42 VAULT 10.216.12.251 GET /index.html - 80 VHOSTS3\domain1335920 124.115.4.201 HTTP/1.1 Mozilla/5.0(compatible;+Sosospider/2.0;++http://help.soso.com/webspider.htm) - - 200 0 0 2132 249 718
+2012-09-02 14:57:01 VAULT 10.216.12.251 GET /robots.txt - 80 VHOSTS3\domain1335920 157.55.33.50 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 0 2 1807 274 203
+2012-09-02 16:09:54 VAULT 10.216.12.250 GET /robots.txt - 80 VHOSTS3\domain1335920 194.66.232.93 HTTP/1.0 bl.uk_lddc_bot/3.1.1+(+http://www.bl.uk/aboutus/stratpolprog/digi/domresproj/index.html) - - 404 0 2 1826 252 124
+2012-09-02 16:10:05 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 194.66.232.93 HTTP/1.0 bl.uk_lddc_bot/3.1.1+(+http://www.bl.uk/aboutus/stratpolprog/digi/domresproj/index.html) - - 200 0 0 4472 242 78
+2012-09-02 16:10:21 VAULT 10.216.12.250 GET /index.html - 80 VHOSTS3\domain1335920 194.66.232.93 HTTP/1.0 bl.uk_lddc_bot/3.1.1+(+http://www.bl.uk/aboutus/stratpolprog/digi/domresproj/index.html) - http://vault.cityinthe.cloud/ 200 0 0 4412 293 31
+2012-09-02 16:10:32 VAULT 10.216.12.250 GET /favicon.ico - 80 VHOSTS3\domain1335920 194.66.232.93 HTTP/1.0 bl.uk_lddc_bot/3.1.1+(+http://www.bl.uk/aboutus/stratpolprog/digi/domresproj/index.html) - http://vault.cityinthe.cloud/ 404 0 2 1826 294 109
